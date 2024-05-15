@@ -40,7 +40,7 @@ Junte-se a nós no Fórmula E Fan Hub e faça parte da revolução das corridas 
 Este projeto é desenvolvido pela Virtual Vanguard:
 
 - Leonardo Correa de Mello - RM555573 - ([linkedin](https://www.linkedin.com/in/leocorreamello/))
-- [Nome do Membro 2](link do perfil do GitHub)
-- [Nome do Membro 3](link do perfil do GitHub)
-- [Nome do Membro 3](link do perfil do GitHub)
-- [Nome do Membro 3](link do perfil do GitHub)
+- Gabriel Alves Machado Vara - RM555355 - ([linkedin](https://www.linkedin.com/in/gabriel-vara/))
+- Luiza Macena Dantas - RM5562537 - ([linkedin](https://www.linkedin.com/in/luiza-macena-2a6715283/))
+- Eduardo Fakiani - 556093 - ([linkedin](https://www.linkedin.com/in/eduardo-fakiani/))
+- Fernanda Rocha Menon - 554673 - ([linkedin](linkedin.com/in/fernanda-rocha-menon-))
