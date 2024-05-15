@@ -6,10 +6,10 @@ Bem-vindo ao repositório do Portal dos Vinhedos, sua loja de vinhos online. Est
 
 Desenvolvido Por: Eduardo Fakiani, Fernanda Rocha Menon e Luiza Macena
 Fórmula E Fan Hub
-Bem-vindo ao Fórmula E Fan Hub, o seu destino interativo definitivo para todos os entusiastas da Fórmula E! Este site inovador foi projetado para proporcionar uma experiência imersiva e emocionante para os fãs da série de corridas de carros elétricos mais eletrizante do mundo.
+Bem-vindo ao Fórmula E, o seu destino interativo definitivo para todos os entusiastas da Fórmula E! Este site inovador foi projetado para proporcionar uma experiência imersiva e emocionante para os fãs da série de corridas de carros elétricos mais eletrizante do mundo.
 
 Sobre o Site
-O Fórmula E Fan Hub é mais do que apenas um site informativo; é uma plataforma interativa onde os fãs podem se conectar, participar e influenciar diretamente o desenrolar das corridas. Aqui estão alguns dos recursos exclusivos que você pode esperar encontrar:
+O Fórmula E é mais do que apenas um site informativo; é uma plataforma interativa onde os fãs podem se conectar, participar e influenciar diretamente o desenrolar das corridas. Aqui estão alguns dos recursos exclusivos que você pode esperar encontrar:
 
 Perfil dos Corredores
 Explore informações detalhadas sobre os pilotos, suas equipes, estatísticas de corrida e muito mais. Esteja sempre atualizado com os últimos desenvolvimentos de seus corredores favoritos.
@@ -22,7 +22,7 @@ Participe ativamente das corridas acumulando pontos e desbloqueando poderes espe
 Engajamento da Comunidade
 Convide seus amigos para se juntarem à comunidade e ganhe pontos extras. Mantenha horas consistentes de visualização para acumular ainda mais pontos e mostrar seu apoio aos pilotos favoritos.
 Como Começar
-Crie uma Conta: Registre-se gratuitamente para desbloquear todos os recursos emocionantes do Fórmula E Fan Hub.
+Crie uma Conta: Registre-se gratuitamente para desbloquear todos os recursos emocionantes do Fórmula E .
 Explore e Interaja: Navegue pelos perfis dos corredores, assista às corridas ao vivo e comece a acumular pontos.
 Convide Amigos: Traga seus amigos para a comunidade para ganhar mais pontos e fortalecer o seu impacto nas corridas.
 Apoie os Pilotos: Use seus pontos para doar poderes aos pilotos durante as corridas e torne-se uma parte ativa do emocionante mundo da Fórmula E.
