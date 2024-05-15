@@ -1,11 +1,7 @@
 # Sistema de Pontos
 
 ## Descrição do Projeto
-
-Bem-vindo ao repositório do Portal dos Vinhedos, sua loja de vinhos online. Este repositório contém todo o código-fonte necessário para executar e manter nossa plataforma de e-commerce, desenvolvida para proporcionar uma experiência excepcional para os amantes de vinho. Aqui, você encontrará módulos para gestão de inventário, processamento de pedidos, integração de pagamento e uma interface de usuário amigável e elegante. Sinta-se livre para explorar, contribuir e relatar quaisquer issues que você encontrar. Agradecemos o seu interesse e esperamos que desfrute da sua jornada pelo mundo dos vinhos conosco!
-
-Desenvolvido Por: Eduardo Fakiani, Fernanda Rocha Menon e Luiza Macena
-Fórmula E Fan Hub
+Fórmula E 
 Bem-vindo ao Fórmula E, o seu destino interativo definitivo para todos os entusiastas da Fórmula E! Este site inovador foi projetado para proporcionar uma experiência imersiva e emocionante para os fãs da série de corridas de carros elétricos mais eletrizante do mundo.
 
 Sobre o Site
