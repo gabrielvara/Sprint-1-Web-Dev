@@ -1,3 +1,4 @@
+![Fiap - TechMahindra](logofigma.PNG)        
 # Sistema de Pontos
 
 ## Descrição do Projeto
