@@ -31,8 +31,11 @@ Junte-se a nós no Fórmula E Fan Hub e faça parte da revolução das corridas 
 ## Funcionalidades
 
 - Sistema de Login
+
 - Sistema de compra de poderes
+  
 - Sistema de Pontos
+  
 - Sistema de pontos por convite de outras pessoas (amigos/pais)
 
 ## Membros do Grupo
